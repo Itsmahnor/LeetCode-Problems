@@ -1,9 +1,7 @@
 class Solution {
 public:
     void merge(vector<int>& nums1, int m, vector<int>& nums2, int n) {
-     if(m==0){
-       nums1[0]=nums2[0];
-     }
+    
     int ind=nums1.size()-1;
     int i=m-1;int j=n-1;
     while(i>=0 && j>=0){
