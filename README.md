@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Itsmahnor/LeetCode-Problems/tree/master/0189-rotate-array) |
 | [0485-max-consecutive-ones](https://github.com/Itsmahnor/LeetCode-Problems/tree/master/0485-max-consecutive-ones) |
 | [1512-number-of-good-pairs](https://github.com/Itsmahnor/LeetCode-Problems/tree/master/1512-number-of-good-pairs) |
 ## Hash Table
@@ -15,9 +16,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Itsmahnor/LeetCode-Problems/tree/master/0189-rotate-array) |
 | [1512-number-of-good-pairs](https://github.com/Itsmahnor/LeetCode-Problems/tree/master/1512-number-of-good-pairs) |
 ## Counting
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/Itsmahnor/LeetCode-Problems/tree/master/1512-number-of-good-pairs) |
+## Two Pointers
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/Itsmahnor/LeetCode-Problems/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
