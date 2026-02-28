@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0485-max-consecutive-ones](https://github.com/Itsmahnor/LeetCode-Problems/tree/master/0485-max-consecutive-ones) |
 | [1512-number-of-good-pairs](https://github.com/Itsmahnor/LeetCode-Problems/tree/master/1512-number-of-good-pairs) |
 ## Hash Table
 |  |
