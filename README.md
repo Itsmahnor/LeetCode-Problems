@@ -27,8 +27,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Itsmahnor/LeetCode-Problems/tree/master/0189-rotate-array) |
+| [0344-reverse-string](https://github.com/Itsmahnor/LeetCode-Problems/tree/master/0344-reverse-string) |
 ## String
 |  |
 | ------- |
+| [0344-reverse-string](https://github.com/Itsmahnor/LeetCode-Problems/tree/master/0344-reverse-string) |
 | [0771-jewels-and-stones](https://github.com/Itsmahnor/LeetCode-Problems/tree/master/0771-jewels-and-stones) |
 <!---LeetCode Topics End-->
