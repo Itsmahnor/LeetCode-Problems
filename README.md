@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0344-reverse-string](https://github.com/Itsmahnor/LeetCode-Problems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Itsmahnor/LeetCode-Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0412-fizz-buzz](https://github.com/Itsmahnor/LeetCode-Problems/tree/master/0412-fizz-buzz) |
+| [0459-repeated-substring-pattern](https://github.com/Itsmahnor/LeetCode-Problems/tree/master/0459-repeated-substring-pattern) |
 | [0771-jewels-and-stones](https://github.com/Itsmahnor/LeetCode-Problems/tree/master/0771-jewels-and-stones) |
 ## Simulation
 |  |
@@ -49,4 +50,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Itsmahnor/LeetCode-Problems/tree/master/0242-valid-anagram) |
+## String Matching
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/Itsmahnor/LeetCode-Problems/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
