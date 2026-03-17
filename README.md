@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0412-fizz-buzz](https://github.com/Itsmahnor/LeetCode-Problems/tree/master/0412-fizz-buzz) |
 | [0459-repeated-substring-pattern](https://github.com/Itsmahnor/LeetCode-Problems/tree/master/0459-repeated-substring-pattern) |
 | [0771-jewels-and-stones](https://github.com/Itsmahnor/LeetCode-Problems/tree/master/0771-jewels-and-stones) |
+| [0796-rotate-string](https://github.com/Itsmahnor/LeetCode-Problems/tree/master/0796-rotate-string) |
 ## Simulation
 |  |
 | ------- |
@@ -58,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/Itsmahnor/LeetCode-Problems/tree/master/0459-repeated-substring-pattern) |
+| [0796-rotate-string](https://github.com/Itsmahnor/LeetCode-Problems/tree/master/0796-rotate-string) |
 ## Dynamic Programming
 |  |
 | ------- |
