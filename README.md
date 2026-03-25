@@ -6,12 +6,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Itsmahnor/LeetCode-Problems/tree/master/0001-two-sum) |
 | [0189-rotate-array](https://github.com/Itsmahnor/LeetCode-Problems/tree/master/0189-rotate-array) |
 | [0485-max-consecutive-ones](https://github.com/Itsmahnor/LeetCode-Problems/tree/master/0485-max-consecutive-ones) |
 | [1512-number-of-good-pairs](https://github.com/Itsmahnor/LeetCode-Problems/tree/master/1512-number-of-good-pairs) |
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Itsmahnor/LeetCode-Problems/tree/master/0001-two-sum) |
 | [0205-isomorphic-strings](https://github.com/Itsmahnor/LeetCode-Problems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Itsmahnor/LeetCode-Problems/tree/master/0242-valid-anagram) |
 | [0771-jewels-and-stones](https://github.com/Itsmahnor/LeetCode-Problems/tree/master/0771-jewels-and-stones) |
