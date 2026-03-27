@@ -1,20 +1,18 @@
 class Solution {
 public:
     int numIdenticalPairs(vector<int>& nums) {
-        int i=0,j=1;
-        int count =0;
-    while(i<nums.size()-1){
-         if(j == nums.size()){
-        i++;
-        j=i+1;
-        continue;
-     }
-        if(nums[i] == nums[j] && i<j){
-          count++;
-         
+        unordered_map<int,int> mp;
+        int count = 0;
+
+        for(int i = 0; i < nums.size(); i++){
+            // if number already seen, add its frequency to count
+            if(mp.find(nums[i]) != mp.end()){
+                count += mp[nums[i]];
+            }
+            // increase frequency
+            mp[nums[i]]++;
         }
-    j++;
-    }
-    return count;
+
+        return count;
     }
 };
