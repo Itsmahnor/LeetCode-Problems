@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0485-max-consecutive-ones](https://github.com/Itsmahnor/LeetCode-Problems/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Itsmahnor/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
 | [1512-number-of-good-pairs](https://github.com/Itsmahnor/LeetCode-Problems/tree/master/1512-number-of-good-pairs) |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Itsmahnor/LeetCode-Problems/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 ## Hash Table
 |  |
 | ------- |
@@ -23,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/Itsmahnor/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
 | [0771-jewels-and-stones](https://github.com/Itsmahnor/LeetCode-Problems/tree/master/0771-jewels-and-stones) |
 | [1512-number-of-good-pairs](https://github.com/Itsmahnor/LeetCode-Problems/tree/master/1512-number-of-good-pairs) |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Itsmahnor/LeetCode-Problems/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 ## Math
 |  |
 | ------- |
@@ -43,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0344-reverse-string](https://github.com/Itsmahnor/LeetCode-Problems/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Itsmahnor/LeetCode-Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Itsmahnor/LeetCode-Problems/tree/master/0392-is-subsequence) |
+| [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Itsmahnor/LeetCode-Problems/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 ## String
 |  |
 | ------- |
