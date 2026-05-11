@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0485-max-consecutive-ones](https://github.com/Itsmahnor/LeetCode-Problems/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Itsmahnor/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
 | [0905-sort-array-by-parity](https://github.com/Itsmahnor/LeetCode-Problems/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/Itsmahnor/LeetCode-Problems/tree/master/0922-sort-array-by-parity-ii) |
 | [1512-number-of-good-pairs](https://github.com/Itsmahnor/LeetCode-Problems/tree/master/1512-number-of-good-pairs) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Itsmahnor/LeetCode-Problems/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 ## Hash Table
@@ -47,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0345-reverse-vowels-of-a-string](https://github.com/Itsmahnor/LeetCode-Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Itsmahnor/LeetCode-Problems/tree/master/0392-is-subsequence) |
 | [0905-sort-array-by-parity](https://github.com/Itsmahnor/LeetCode-Problems/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/Itsmahnor/LeetCode-Problems/tree/master/0922-sort-array-by-parity-ii) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Itsmahnor/LeetCode-Problems/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 ## String
 |  |
@@ -72,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/Itsmahnor/LeetCode-Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Itsmahnor/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0905-sort-array-by-parity](https://github.com/Itsmahnor/LeetCode-Problems/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/Itsmahnor/LeetCode-Problems/tree/master/0922-sort-array-by-parity-ii) |
 ## String Matching
 |  |
 | ------- |
