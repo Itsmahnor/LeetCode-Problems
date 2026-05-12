@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Itsmahnor/LeetCode-Problems/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/Itsmahnor/LeetCode-Problems/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/Itsmahnor/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Itsmahnor/LeetCode-Problems/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Itsmahnor/LeetCode-Problems/tree/master/0268-missing-number) |
@@ -42,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Itsmahnor/LeetCode-Problems/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/Itsmahnor/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Itsmahnor/LeetCode-Problems/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Itsmahnor/LeetCode-Problems/tree/master/0189-rotate-array) |
@@ -73,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Itsmahnor/LeetCode-Problems/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/Itsmahnor/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/Itsmahnor/LeetCode-Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Itsmahnor/LeetCode-Problems/tree/master/0268-missing-number) |
