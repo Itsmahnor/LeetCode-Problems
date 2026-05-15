@@ -1,13 +1,19 @@
 class Solution {
 public:
     bool isPalindrome(string s) {
-       string filtered;
-       for(char c:s){
-        if(isalnum(c)) {filtered+=tolower(c);}
-       } 
-       s=filtered;
-       reverse(filtered.begin(),filtered.end());
-       if(s==filtered){return true;}
-       return false;
+        string a;
+        for(int i=0;i<s.length();i++){
+            if(isalnum(s[i])){
+
+                a+=tolower(s[i]);
+            }
+        }
+        string rev = a;
+        reverse(rev.begin(),rev.end());
+        if(rev == a){
+            return true;
+        }else{
+            return false;
+        }
     }
 };
