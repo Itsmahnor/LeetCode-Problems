@@ -101,6 +101,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Itsmahnor/LeetCode-Problems/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/Itsmahnor/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
 | [2000-reverse-prefix-of-word](https://github.com/Itsmahnor/LeetCode-Problems/tree/master/2000-reverse-prefix-of-word) |
 ## Monotonic Stack
@@ -120,4 +121,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/Itsmahnor/LeetCode-Problems/tree/master/0680-valid-palindrome-ii) |
 | [1754-largest-merge-of-two-strings](https://github.com/Itsmahnor/LeetCode-Problems/tree/master/1754-largest-merge-of-two-strings) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Itsmahnor/LeetCode-Problems/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
