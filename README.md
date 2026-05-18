@@ -61,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Itsmahnor/LeetCode-Problems/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Itsmahnor/LeetCode-Problems/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/Itsmahnor/LeetCode-Problems/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Itsmahnor/LeetCode-Problems/tree/master/0242-valid-anagram) |
@@ -101,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Itsmahnor/LeetCode-Problems/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/Itsmahnor/LeetCode-Problems/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/Itsmahnor/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
 | [2000-reverse-prefix-of-word](https://github.com/Itsmahnor/LeetCode-Problems/tree/master/2000-reverse-prefix-of-word) |
