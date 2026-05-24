@@ -75,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0771-jewels-and-stones](https://github.com/Itsmahnor/LeetCode-Problems/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/Itsmahnor/LeetCode-Problems/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/Itsmahnor/LeetCode-Problems/tree/master/0844-backspace-string-compare) |
+| [1544-make-the-string-great](https://github.com/Itsmahnor/LeetCode-Problems/tree/master/1544-make-the-string-great) |
 | [1754-largest-merge-of-two-strings](https://github.com/Itsmahnor/LeetCode-Problems/tree/master/1754-largest-merge-of-two-strings) |
 | [1768-merge-strings-alternately](https://github.com/Itsmahnor/LeetCode-Problems/tree/master/1768-merge-strings-alternately) |
 | [2000-reverse-prefix-of-word](https://github.com/Itsmahnor/LeetCode-Problems/tree/master/2000-reverse-prefix-of-word) |
@@ -109,6 +110,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0155-min-stack](https://github.com/Itsmahnor/LeetCode-Problems/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/Itsmahnor/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
 | [0844-backspace-string-compare](https://github.com/Itsmahnor/LeetCode-Problems/tree/master/0844-backspace-string-compare) |
+| [1544-make-the-string-great](https://github.com/Itsmahnor/LeetCode-Problems/tree/master/1544-make-the-string-great) |
 | [2000-reverse-prefix-of-word](https://github.com/Itsmahnor/LeetCode-Problems/tree/master/2000-reverse-prefix-of-word) |
 ## Monotonic Stack
 |  |
