@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0905-sort-array-by-parity](https://github.com/Itsmahnor/LeetCode-Problems/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Itsmahnor/LeetCode-Problems/tree/master/0922-sort-array-by-parity-ii) |
 | [1512-number-of-good-pairs](https://github.com/Itsmahnor/LeetCode-Problems/tree/master/1512-number-of-good-pairs) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Itsmahnor/LeetCode-Problems/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Itsmahnor/LeetCode-Problems/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Itsmahnor/LeetCode-Problems/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 ## Hash Table
@@ -86,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0412-fizz-buzz](https://github.com/Itsmahnor/LeetCode-Problems/tree/master/0412-fizz-buzz) |
 | [0844-backspace-string-compare](https://github.com/Itsmahnor/LeetCode-Problems/tree/master/0844-backspace-string-compare) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Itsmahnor/LeetCode-Problems/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Itsmahnor/LeetCode-Problems/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Sorting
 |  |
@@ -117,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Itsmahnor/LeetCode-Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Itsmahnor/LeetCode-Problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/Itsmahnor/LeetCode-Problems/tree/master/1544-make-the-string-great) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Itsmahnor/LeetCode-Problems/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2000-reverse-prefix-of-word](https://github.com/Itsmahnor/LeetCode-Problems/tree/master/2000-reverse-prefix-of-word) |
 ## Monotonic Stack
 |  |
@@ -147,4 +150,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Itsmahnor/LeetCode-Problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Itsmahnor/LeetCode-Problems/tree/master/0232-implement-queue-using-stacks) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Itsmahnor/LeetCode-Problems/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 <!---LeetCode Topics End-->
