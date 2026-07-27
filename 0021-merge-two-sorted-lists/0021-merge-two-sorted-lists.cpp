@@ -11,43 +11,50 @@
 class Solution {
 public:
     ListNode* mergeTwoLists(ListNode* list1, ListNode* list2) {
-        if(list1==0){
-            return list2;
-        }
-         if(list2==0){
-            return list1;
-        }
-        ListNode *ptr=list1;
-        if(list1->val > list2->val){
-            ptr=list2;
-            list2=list2->next;
-        }
-        else{
-            list1=list1->next;
-        }
-        ListNode *current=ptr;
-        while(list1!=0 && list2!=0){
-            if(list1->val < list2->val){
-                current->next=list1;
-                list1=list1->next;
+        if (list1 == nullptr) return list2;
+if (list2 == nullptr) return list1;
+        ListNode* current1 = list1;
+        ListNode* current2 = list2;
+        ListNode* newList = nullptr;
+        ListNode* newListCurrent = nullptr;
+        while(current1 != nullptr && current2 != nullptr ){
+            if(current1 -> val <= current2 -> val){
+                ListNode* nnode = new ListNode(current1->val);
+               if(newList == nullptr){
+                 newList = nnode;
+                 newListCurrent=nnode;
+               
+               }else{
+                 newListCurrent->next = nnode;
+                 newListCurrent=newListCurrent->next;
+               }
+               current1 = current1->next;
+            }else{
+                 ListNode* nnode = new ListNode(current2->val);
+                       if(newList == nullptr){
+                 newList = nnode;
+                  newListCurrent=nnode;
+            
+               }else{
+                 newListCurrent->next = nnode;
+                 newListCurrent=newListCurrent->next;
+               }
+               current2 = current2->next;
             }
-            else{
-                current->next=list2;
-                list2=list2->next;
-            }
-            current=current->next;
-        }
-        while(list1!=0){
-            current->next=list1;
-            list1=list1->next;
-        }
-          while(list2!=0){
-            current->next=list2;
-            list2=list2->next;
-        }
-        
 
-        return ptr;
+        }
+        while (current1 != nullptr) {
+    ListNode* nnode = new ListNode(current1->val);
+   newListCurrent->next = nnode;
+    newListCurrent = newListCurrent -> next;
+ current1 = current1 -> next;
+}
+ while (current2 != nullptr) {
+    ListNode* nnode = new ListNode(current2->val);
+   newListCurrent->next = nnode;
+    newListCurrent = newListCurrent -> next;
+ current2 = current2 -> next;
+}
+        return newList;
     }
-    
 };
