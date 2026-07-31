@@ -69,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1754-largest-merge-of-two-strings](https://github.com/Itsmahnor/LeetCode-Problems/tree/master/1754-largest-merge-of-two-strings) |
 | [1768-merge-strings-alternately](https://github.com/Itsmahnor/LeetCode-Problems/tree/master/1768-merge-strings-alternately) |
 | [2000-reverse-prefix-of-word](https://github.com/Itsmahnor/LeetCode-Problems/tree/master/2000-reverse-prefix-of-word) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Itsmahnor/LeetCode-Problems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Itsmahnor/LeetCode-Problems/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2570-merge-two-2d-arrays-by-summing-values](https://github.com/Itsmahnor/LeetCode-Problems/tree/master/2570-merge-two-2d-arrays-by-summing-values) |
 ## String
@@ -134,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1544-make-the-string-great](https://github.com/Itsmahnor/LeetCode-Problems/tree/master/1544-make-the-string-great) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Itsmahnor/LeetCode-Problems/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2000-reverse-prefix-of-word](https://github.com/Itsmahnor/LeetCode-Problems/tree/master/2000-reverse-prefix-of-word) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Itsmahnor/LeetCode-Problems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -177,6 +179,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0234-palindrome-linked-list](https://github.com/Itsmahnor/LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Itsmahnor/LeetCode-Problems/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Itsmahnor/LeetCode-Problems/tree/master/0876-middle-of-the-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Itsmahnor/LeetCode-Problems/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Itsmahnor/LeetCode-Problems/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Recursion
 |  |
